@@ -51,9 +51,10 @@ I'm a **cybersecurity specialist** currently pursuing my engineering degree at *
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathis-tempo&repo=ELFInfector&theme=radical)](https://github.com/Mathis-tempo/ELFInfector)
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinMeneust&repo=work-experience-classification&theme=radical)](https://github.com/RobinMeneust/work-experience-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinMeneust&repo=haskell-compression-project&theme=radical)](https://github.com/RobinMeneust/haskell-compression-project )
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=MaximeBACQ&repo=SpringProject&theme=radical)](https://github.com/MaximeBACQ/SpringProject)
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=MaximeBACQ&repo=JEEProj&theme=radical)](https://github.com/MaximeBACQ/JEEProj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathis-tempo&repo=Java-CY-slide&theme=radical)](https://github.com/Mathis-tempo/Java-CY-slide)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinMeneust&repo=haskell-compression-project&theme=radical)](https://github.com/RobinMeneust/haskell-compression-project )
 
 
