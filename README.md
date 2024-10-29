@@ -33,16 +33,7 @@ I'm a **cybersecurity specialist** currently pursuing my engineering degree at *
 
 
 
-
-### 🔗 Connect with Me
-
-- **LinkedIn**: [Mathis Tempo](https://www.linkedin.com/in/mathis-tempo/))
-- **Website**: [mywebsite.com](https://www.mywebsite.com)
-- **Email**: [mathistempo78@gmail.com](mailto:mathistempo78@gmail.com)
-- **Phone**: +33 7 81 95 90 16
-
 ---
-
 
 
 
@@ -56,5 +47,16 @@ I'm a **cybersecurity specialist** currently pursuing my engineering degree at *
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=MaximeBACQ&repo=SpringProject&theme=radical)](https://github.com/MaximeBACQ/SpringProject)
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=MaximeBACQ&repo=JEEProj&theme=radical)](https://github.com/MaximeBACQ/JEEProj)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathis-tempo&repo=Java-CY-slide&theme=radical)](https://github.com/Mathis-tempo/Java-CY-slide)
+
+
+
+
+### 🔗 Connect with Me
+
+
+<div align="left"><a href="https://mathis-tempo.github.io/website/" target="_blank"><img src="https://img.shields.io/badge/Website-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website"/></a>
+  <a href="mailto:mathistempo78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+  <a href="https://www.linkedin.com/in/mathis-tempo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+
 
 
