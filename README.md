@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mathis Tempo
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006400&lines=Cybersecurity+Specialist;Passionate+about+Network+Security)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=006400&lines=Cybersecurity+Specialist;Master+M2+degree+in+engineering+at+CY-TECH)
 
 
 I'm a **cybersecurity specialist** currently pursuing my engineering degree at **CY-Tech**. I am passionate about securing infrastructures, conducting forensic investigations, and developing efficient, safe solutions for the modern digital world.
@@ -11,12 +11,11 @@ I'm a **cybersecurity specialist** currently pursuing my engineering degree at *
 ### 🚀 Skills & Expertise
 
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 - **Cybersecurity**: Network security (routing, firewalls, VPN, IDS/IPS), web security, shellcode, pentesting, cryptography
 - **Forensics & Reverse Engineering**: Malware analysis, vulnerability detection
@@ -42,6 +41,7 @@ I'm a **cybersecurity specialist** currently pursuing my engineering degree at *
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathis-tempo&repo=ELFInfector&theme=radical)](https://github.com/Mathis-tempo/ELFInfector)
 -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mathis-tempo&repo=ELFInfector&theme=radical)](https://github.com/Mathis-tempo/ELFInfector)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinMeneust&repo=work-experience-classification&theme=radical)](https://github.com/RobinMeneust/work-experience-classification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RobinMeneust&repo=haskell-compression-project&theme=radical)](https://github.com/RobinMeneust/haskell-compression-project )
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=MaximeBACQ&repo=SpringProject&theme=radical)](https://github.com/MaximeBACQ/SpringProject)
